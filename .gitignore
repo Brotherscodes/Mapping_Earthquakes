@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Add config.js file to .gitignore containing RSA token from mapbox:
+config.js
