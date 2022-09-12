@@ -14,7 +14,7 @@ let streets = L.tileLayer(
     id: "mapbox/streets-v11",
     tileSize: 512,
     zoomOffset: -1,
-    accessToken: API_KEY,
+    accessToken: API_KEY
   });
 
 // We create the dark view tile layer that will be an option for our map.
@@ -24,7 +24,7 @@ let dark = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/dark-v10/tiles/{
   id: "mapbox/dark-v10",
   tileSize: 512,
   zoomOffset: -1,
-  accessToken: API_KEY,
+  accessToken: API_KEY
 });
 
 // Create a street/satellite view of the map for user selection:
@@ -34,7 +34,7 @@ let satelliteStreets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/sate
   id: "mapbox/satellite-streets-v11",
   tileSize: 512,
   zoomOffset: -1,
-  accessToken: API_KEY,
+  accessToken: API_KEY
 });
 
 // Create another map style for user selection:
@@ -44,7 +44,7 @@ let navigationDark = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/naviga
   id: "mapbox/navigation-night-v1",
   tileSize: 512,
   zoomOffset: -1,
-  accessToken: API_KEY,
+  accessToken: API_KEY
 });
 
 // Create a base layer that holds both maps.
