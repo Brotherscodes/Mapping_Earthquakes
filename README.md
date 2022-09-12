@@ -1,5 +1,8 @@
 # Mapping_Earthquakes
 
+## Project Overview:
+
+<br>
 
 In this module, you will use the Leaflet.js Application Programming Interface (API) to populate a geographical map with GeoJSON earthquake data from a URL. Each earthquake will be visually represented by a circle and color, where a higher magnitude will have a larger diameter and will be darker in color. In addition, each earthquake will have a popup marker that, when clicked, will show the magnitude of the earthquake and the location of the earthquake.
 
@@ -16,3 +19,36 @@ Approach
 Your approach will be to use the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. You'll use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
 
 Now that you have an overview of the project plan, let's set up a Mapbox account and get the API token you'll need to create geographical maps.
+
+
+<br>
+
+[Link to deployed dashboard!](https://brotherscodes.github.io/Mapping_Earthquakes/)
+
+<b/>
+
+# Final Result:
+
+<p align=center>
+<img src=Images/final_result.png>
+
+## Resources:
+
+- Software:
+    - `Javascript`
+    - `HTML5`
+    - `Bootstrap`
+    - `CSS`
+    - `Google Chrome`, `Div Tools`
+    - `VS Code`
+    - `JSON`
+    - `Leaflet`
+
+<br>
+
+- Code for reference:
+    - `index.html`
+    - `style.css`
+    - `challenge_logic_D2.js`
+
+<br>
