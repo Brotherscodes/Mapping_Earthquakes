@@ -8,7 +8,7 @@ In this project a `Application Programming Interface (API)` and `Leaflet` is use
 
 ## Approach: 
 
-We will use the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. Using the Leaflet library we plot the data on a Mapbox map through an API request and create interactivity for the earthquake data. The GeoJSON earthquake data is sourced from the USGS website where we retrieve geographical coordinates and the magnitudes of earthquakes for the last seven days and then add the data to our map.
+We will use the `JavaScript` and the `D3.js` library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. Using the `Leaflet` library we plot the data on a Mapbox map through an API request and create interactivity for the earthquake data. The GeoJSON earthquake data is sourced from the `USGS` website where we retrieve geographical coordinates and the magnitudes of earthquakes for the last seven days and then add the data to our map.
 
 <br>
 
