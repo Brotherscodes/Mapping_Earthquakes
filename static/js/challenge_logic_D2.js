@@ -14,7 +14,7 @@ let streets = L.tileLayer(
     id: "mapbox/streets-v11",
     tileSize: 512,
     zoomOffset: -1,
-    accessToken: "API_KEY",
+    accessToken: API_KEY,
   });
 
 // We create the dark view tile layer that will be an option for our map.
