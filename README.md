@@ -17,10 +17,6 @@ We will use the `JavaScript` and the `D3.js` library to retrieve the coordinates
 
 <br>
 
-[Link to Deployed Map!](https://brotherscodes.github.io/Mapping_Earthquakes/)
-
-<b/>
-
 # Final Result:
 
 <p align=center>
