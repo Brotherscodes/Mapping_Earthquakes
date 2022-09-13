@@ -31,7 +31,6 @@ We will use the `JavaScript` and the `D3.js` library to retrieve the coordinates
 - Software:
     - `Javascript`
     - `HTML5`
-    - `Bootstrap`
     - `CSS`
     - `Google Chrome`, `Div Tools`
     - `VS Code`
